@@ -16,7 +16,7 @@ Below are examples, how to request your own and license!
 To request your own, follow these simple steps:
 
 1. Create an issue, the **title** must be the same as your Github account.
-2. Add a **label** with the type of avatar you want. You can pick multiple.
+2. The comment must contain **halloween**, **standard** or **christmas** to show the type of avatar you want. You can pick multiple.
 3. ???
 4. Profit.
 
