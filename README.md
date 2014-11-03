@@ -4,25 +4,25 @@
 
 Below are examples, how to request your own and license!
 
-##### Examples
+#### Examples
  
 | Halloween  | Standard | Christmas |
 | ------------- | ------------- | ------------- |
 ![rlemon](/rlemon/halloween.png?raw=true) | ![Coming Soon](http://i.imgur.com/dI64dcE.png) | ![Coming Soon](http://i.imgur.com/dI64dcE.png)
 
 
-##### Request Your Own!
+#### Request Your Own!
 
 To request your own, follow these simple steps:
 
-1. Create an issue, title must be the same as your Github account.
-2. Add a `label` with the type of avatar you want. You can pick multiple.
+1. Create an issue, the **title** must be the same as your Github account.
+2. Add a **label** with the type of avatar you want. You can pick multiple.
 3. ???
 4. Profit.
 
 I am aiming to do one per day, so please be patient. 
 
-##### License.
+#### License.
 
 ```
         DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
