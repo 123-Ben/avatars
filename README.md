@@ -18,7 +18,7 @@ To request your own, follow these simple steps:
 1. Create an issue, the **title** must be the same as your Github account.
 2. The **comment** must specify *halloween*, *standard* or *christmas* to show the type of avatar you want. You can pick multiple. 
 3. Your Github profile picture is used for *inspiration*, if you would prefer me to use another, please add it to the comment.
-4. Anyother instructions, `I want to be a chicken!`, please add to the comment.
+4. Any other instructions, `I want to be a chicken!`, please add to the comment.
 
 I am aiming to do one per day, so please be patient. 
 
