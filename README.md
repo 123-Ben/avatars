@@ -4,19 +4,12 @@
 
 Below are examples, how to request your own and license!
 
-##### Halloween
+##### Examples
+ 
+| Halloween  | Standard | Christmas |
+| ------------- | ------------- | ------------- |
+![rlemon](/rlemon/halloween.png?raw=true) | ![Coming Soon](http://i.imgur.com/dI64dcE.png) | ![Coming Soon](http://i.imgur.com/dI64dcE.png)
 
-![rlemon](/rlemon/halloween.png?raw=true)
-![AmaanC](/AmaanC/halloween.png?raw=true)
-![tomdwyer](/tomdwyer/halloween.png?raw=true)
-
-##### Standard
-
-To be added.
-
-##### Christmas
-
-To be added.
 
 ##### Request Your Own!
 
