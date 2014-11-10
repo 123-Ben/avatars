@@ -8,7 +8,7 @@ Below are examples, how to request your own and license!
  
 | Halloween  | Standard | Christmas |
 | ------------- | ------------- | ------------- |
-![rlemon](/rlemon/halloween.png?raw=true) | ![Coming Soon](http://i.imgur.com/dI64dcE.png) | ![Coming Soon](http://i.imgur.com/dI64dcE.png)
+![rlemon](/rlemon/halloween.png?raw=true) | ![Coming Soon](/sudheerDev/normal.png) | ![Coming Soon](http://i.imgur.com/dI64dcE.png)
 
 
 #### Request Your Own!
