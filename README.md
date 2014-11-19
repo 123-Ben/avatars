@@ -20,7 +20,7 @@ To request your own, follow these simple steps:
 3. Your Github profile picture is used for *inspiration*, if you would prefer me to use another, please add it to the comment.
 4. Any other instructions, `I want to be a chicken!`, please add to the comment.
 
-I am aiming to do one per day, so please be patient. 
+I am aiming to do two or three per week, so please be patient. 
 
 #### License.
 
