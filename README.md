@@ -8,7 +8,7 @@ Below are examples, how to request your own and license!
  
 | Halloween  | Standard | Christmas |
 | ------------- | ------------- | ------------- |
-![Halloween](/rlemon/halloween.png?raw=true) | ![Standard](/sudheerDev/normal.png?raw=true) | ![Christmas](/kittenz/christmas.png?raw=true)
+![Halloween](/rlemon/halloween.png?raw=true) | ![Standard](/sudheerDev/normal.png?raw=true) | ![Christmas](/benjamingr/christmas.png?raw=true)
 
 
 #### Request Your Own!
