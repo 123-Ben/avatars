@@ -6,8 +6,7 @@ Below are examples, how to request your own and license!
 
 #### Examples
 
-| ------------- | ------------- | ------------- |
-![https://github.com/Billy-](/assets/Billy-.png?raw=true) | ![https://github.com/sudheerDev](/assets/sudheerDev/normal.png?raw=true) | ![https://github.com/kittenz](/assets/kittenz/normal.png?raw=true)
+| ![https://github.com/Billy-](/assets/Billy-.png?raw=true) | ![https://github.com/sudheerDev](/assets/sudheerDev.png?raw=true) | ![https://github.com/kittenz](/assets/kittenz.png?raw=true) |
 
 #### Request Your Own
 
