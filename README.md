@@ -1,19 +1,14 @@
+![https://github.com/Billy-](/assets/Billy-.png?raw=true) ![https://github.com/sudheerDev](/assets/sudheerDev.png?raw=true) ![https://github.com/kittenz](/assets/kittenz.png?raw=true)
+
 ### Avatars
 
 > Avatars, made for giggles.
 
-Below are examples, how to request your own and license!
+#### Requests
 
-#### Examples
-
-| ![https://github.com/Billy-](/assets/Billy-.png?raw=true) | ![https://github.com/sudheerDev](/assets/sudheerDev.png?raw=true) | ![https://github.com/kittenz](/assets/kittenz.png?raw=true) |
-
-#### Request Your Own
-
-To request your own:
-
-1. Create an issue, the **title** must be the same as your Github account URL, e.g. `https://github.com/torvalds`.
-2. Your Github profile picture is used for *inspiration*, if you would prefer me to use another picture, please add it to the comment.
+1. Create an issue, the **title** must be the same as your Github account URL: `https://github.com/torvalds`
+2. For themed avatars add **one** of the relevant labels when creating an issue
+3. Github profile pictures are used for *inspiration*. If you have another source please add it when creating an issue
 
 #### License
 
