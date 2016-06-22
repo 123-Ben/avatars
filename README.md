@@ -6,9 +6,10 @@
 
 #### Requests
 
-1. Create an issue, the **title** must be the same as your Github account URL: `https://github.com/torvalds`
-2. For themed avatars add **one** of the relevant labels when creating an issue
-3. Github profile pictures are used for *inspiration*. If you have another source please add it when creating an issue
+1. Create an issue
+2. The **title** should be the same as your Github account: `https://github.com/torvalds`
+3. The **label** should be *normal* unless you want a themed avatar
+4. The **comment** should contain any instructions, such as themed avatar details, image to use for inspiration, etc
 
 #### License
 
