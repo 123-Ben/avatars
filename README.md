@@ -11,6 +11,10 @@
 3. The **label** should be *normal* unless you want a themed avatar
 4. The **comment** should contain any instructions, such as themed avatar details, image to use for inspiration, etc
 
+#### Credits
+
+* [Open Color Palette](https://yeun.github.io/open-color/)
+
 #### License
 
 ```
@@ -28,5 +32,3 @@
 
   0. You just DO WHAT THE FUCK YOU WANT TO.
  ```
-
-
