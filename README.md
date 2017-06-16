@@ -1,9 +1,5 @@
 ![https://github.com/Billy-](/assets/examples.png?raw=true)
 
-### Avatars
-
-> Avatars, made for giggles.
-
 ## Request
 
 1. Create an issue
